@@ -15,6 +15,11 @@ I’m Sai Charan, a full-stack web developer👨‍💻, photographer📸 and te
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Write CSS 10X faster! Emmet for CSS](https://charandev.com/write-css-10x-faster-emmet-for-css)
+- [Animation + CSS = M A Z I C !](https://charandev.com/animation-css-m-a-z-i-c)
+- [Before learning any Java Script Framework....](https://charandev.com/before-learning-any-java-script-framework)
+- [CRUD Application Using Node JS - PART 4 : Configuring the API's (Get by ID, DELETE, UPDATE) | Final Wrap Up](https://charandev.com/crud-application-using-node-js-part-4-configuring-the-apis-get-by-id-delete-update-or-final-wrap-up)
+- [CRUD Application Using Node JS - PART 3 : Configuring the API's (CREATE, RETRIEVE)](https://charandev.com/crud-application-using-node-js-part-3-configuring-the-apis-create-retrieve)
 <!-- BLOG-POST-LIST:END -->
 
 - 👀 I’m interested in ...
