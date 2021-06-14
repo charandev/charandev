@@ -7,7 +7,7 @@
 
 Hey there 👋 
 
-I’m Sai Charan, a full-stack web developer👨‍💻, photographer📸 and technology enthusiast📱 who specializes in front-end development. I make it my mission to translate user requirements into real world applications with pixel perfext designs.
+I’m Sai Charan, a full-stack web developer👨‍💻, photographer📸 and technology enthusiast📱 who specializes in front-end development. I make it my mission to translate user requirements into real world applications with pixel perfect designs.
 
 > Want to know more about me?  [Check out my portfolio.](https://charandev.com/about-saicharan)
 
